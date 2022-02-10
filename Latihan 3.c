@@ -4,7 +4,7 @@
 struct kehadiran {
     char nama[10];
     int nim[10];
-    float hadir[10];
+    int hadir[10];
 };
 
 struct kehadiran daftar[10] = {{"Andi", 132001, 80},{"Budiman", 132003, 95},{"Cecep", 132005, 65},{"Dodi", 132007, 90},{"Eka", 132009, 75},
